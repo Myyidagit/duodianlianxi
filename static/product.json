@@ -1,0 +1,588 @@
+{
+    "elapsedTime": 6,
+    "errorCode": 0,
+    "errorDesc": "",
+    "logCode": "LOG_SN_950aae52-f31d-4023-b89b-346145f6fad3",
+    "body": {
+        "parentSiSeq": "C18730",
+        "isHasBanner": 1,
+        "CategoryTree": [
+            {
+                "hasMore": 1,
+                "child": [
+                    {
+                        "appName": "奇异果",
+                        "icon": "//img06.fn-mart.com/pic/660e133d4cab1c144c81/knq2nn52FTLMhMul32/79SGmRJalGVxjG/CsmRsVkADmiAFVYMAACEvG-gSMQ612_org_q75.png",
+                        "siSeq": "C51830",
+                        "type": 3
+                    },
+                    {
+                        "appName": "车厘子/樱桃",
+                        "icon": "//img02.fn-mart.com/pic/0b91133d8ab41bef6a41/Kz6Tnn72FztdBlul3z/7imRoGEREYfata/CsmRsVkeahaAWTHqAACdJ-KB2r0573_org_q75.png",
+                        "siSeq": "C51844",
+                        "type": 3
+                    },
+                    {
+                        "appName": "凤梨/芒果",
+                        "icon": "//img03.fn-mart.com/pic/792f133d4caa1bd7f62c/hnqzTT12_ntdklVdX2/7imyeacalyUYja/CsmRslkADk-AWpN8AACKNw3P778502_org_q75.png",
+                        "siSeq": "C51794",
+                        "type": 3
+                    },
+                    {
+                        "appName": "提子/葡萄",
+                        "icon": "//img03.fn-mart.com/pic/578c133d4caa1c15af70/B2qT2252DnflhlVMXz/1ioRmycadaV9XG/CsmRslkADn6AWlcXAACZ9Y1wvmw709_org_q75.png",
+                        "siSeq": "C51865",
+                        "type": 3
+                    },
+                    {
+                        "appName": "火龙果/龙眼",
+                        "icon": "//img02.fn-mart.com/pic/45f0133d4cac1bd8a123/hn8T225nD2LMklVdjn/79eyoGcalGVYjG/CsmRsVkADlqAMngOAACsX1H8ziw141_org_q75.png",
+                        "siSeq": "C51809",
+                        "type": 3
+                    },
+                    {
+                        "appName": "柑橘/橙柚",
+                        "icon": "//img04.fn-mart.com/pic/f4c4133d4ca61c14acce/kz8zTT1n_zCdkdVMOT/5xeamRJaMRu93a/CsmRsVkADm6AMUhJAACb7U6m6TY714_org_q75.png",
+                        "siSeq": "C51837",
+                        "type": 3
+                    },
+                    {
+                        "appName": "牛油果",
+                        "icon": "//img04.fn-mart.com/pic/f5ce133d4ca61c52a7be/K28TTT1z_zCMBdugXz/7YSySGJalauY3G/CsmRslkADpmAZ4i0AACOusYBp38040_org_q75.png",
+                        "siSeq": "C51907",
+                        "type": 3
+                    },
+                    {
+                        "appName": "香蕉",
+                        "icon": "//img04.fn-mart.com/pic/e431133d8b36c485a57f/K282nn7n_TLMKlVgXn/19SGeakaeG0GVa/CsmRsVkozTKAYs8lAAB_IpyaVnc202_org_q75.png",
+                        "siSeq": "C52196",
+                        "type": 3
+                    },
+                    {
+                        "appName": "瓜类",
+                        "icon": "//img03.fn-mart.com/pic/7bac133d4ca61c169588/k2q2nn72FzflKgUM3T/sioGoGEGMGZYQG/CsmRsVkADo2Ac5hnAACjpmQ5F_w423_org_q75.png",
+                        "siSeq": "C51886",
+                        "type": 3
+                    },
+                    {
+                        "appName": "苹果/梨",
+                        "icon": "//img03.fn-mart.com/pic/0e90133d4ca21c152e6d/Kn8Tnn7zvTCdhduM32/sieaoyEyMauxjG/CsmRslkADnaAdzzTAACIPw00_nU425_org_q75.png",
+                        "siSeq": "C51851",
+                        "type": 3
+                    },
+                    {
+                        "appName": "榴莲/山竹",
+                        "icon": "//img03.fn-mart.com/pic/38f7133d4ca81c1633ff/B2q2TT5T_zLMBMZdX2/7YSGmaEalyUiOy/CsmRslkADoeAE3RBAACWJnlSxEk041_org_q75.png",
+                        "siSeq": "C51879",
+                        "type": 3
+                    },
+                    {
+                        "appName": "浆果/莓类",
+                        "icon": "//img03.fn-mart.com/pic/2d70133d4ca51c16f461/Bnq2zz72_2fMKdudO2/sxeGeaJRgauxXR/CsmRslkADpOAW8dMAACbibqO9bs460_org_q75.png",
+                        "siSeq": "C51900",
+                        "type": 3
+                    },
+                    {
+                        "appName": "热带水果",
+                        "icon": "//img03.fn-mart.com/pic/04ae133d4ca61c570797/B262zz1z_TCgBgUlOz/sioGoGEGMGZYXG/CsmRslkADqCAegC1AACT3CjFNos092_org_q75.png",
+                        "siSeq": "C51914",
+                        "type": 3
+                    },
+                    {
+                        "appName": "椰子类",
+                        "icon": "//img04.fn-mart.com/pic/c35a133d4ca51c16ac23/h28TTT7nF2tlKdVgj2/7iSaeacyMyZYXR/CsmRsVkADmGAbDAjAACVpeaO0j4002_org_q75.png",
+                        "siSeq": "C51823",
+                        "type": 3
+                    },
+                    {
+                        "appName": "桃李杏枣",
+                        "icon": "//img06.fn-mart.com/pic/86a8133dc97820ec23da/hzqzTT7nv2LlBdZljn/1YoaoRkRQaU9ZG/CsmRsVlMq8KAeyuKAACgzKOxDrA918_org_q75.png",
+                        "siSeq": "C51893",
+                        "type": 3
+                    },
+                    {
+                        "appName": "柿子",
+                        "icon": "//img04.fn-mart.com/pic/b5af133c9668dc7134b6/Kn8Tnn7zvTCdhduM32/79eGSR_aXYLYU9/CsmRsln5I3uAAUfhAAA71Wq8c_A193_org_q75.jpg",
+                        "siSeq": "C51872",
+                        "type": 3
+                    },
+                    {
+                        "appName": "国产水果",
+                        "icon": "//img03.fn-mart.com/C/web/layout/kk/20161108/201611080922181478568138_kk-1_org_q75.png",
+                        "siSeq": "C18379",
+                        "type": 3
+                    }
+                ],
+                "appName": "新鲜水果",
+                "siSeq": "C18727",
+                "type": 3
+            },
+            {
+                "hasMore": 1,
+                "child": [
+                    {
+                        "appName": "有机蔬菜",
+                        "icon": "//img03.fn-mart.com/C/web/layout/kk/20161108/201611080924541478568294_kk-1_org_q75.png",
+                        "siSeq": "C18715",
+                        "type": 3
+                    },
+                    {
+                        "appName": "菌菇",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20161108/201611080925081478568308_kk-1_org_q75.png",
+                        "siSeq": "C18376",
+                        "type": 3
+                    },
+                    {
+                        "appName": "豆类",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080925151478568315_kk-1_org_q75.png",
+                        "siSeq": "C18535",
+                        "type": 3
+                    },
+                    {
+                        "appName": "豆制品",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080925241478568324_kk-1_org_q75.png",
+                        "siSeq": "C18671",
+                        "type": 3
+                    },
+                    {
+                        "appName": "叶菜",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080925321478568332_kk-1_org_q75.png",
+                        "siSeq": "C50044",
+                        "type": 3
+                    },
+                    {
+                        "appName": "根茎类",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080925371478568337_kk-1_org_q75.png",
+                        "siSeq": "C50052",
+                        "type": 3
+                    },
+                    {
+                        "appName": "瓜果类",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080925451478568345_kk-1_org_q75.png",
+                        "siSeq": "C50054",
+                        "type": 3
+                    },
+                    {
+                        "appName": "香辛葱蒜",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20161108/201611080925521478568352_kk-1_org_q75.png",
+                        "siSeq": "C50450",
+                        "type": 3
+                    }
+                ],
+                "appName": "新鲜蔬菜",
+                "siSeq": "C18737",
+                "type": 3
+            },
+            {
+                "hasMore": 1,
+                "child": [
+                    {
+                        "appName": "鲜奶",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080926361478568396_kk-1_org_q75.png",
+                        "siSeq": "C18656",
+                        "type": 3
+                    },
+                    {
+                        "appName": "低温酸奶",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080926421478568402_kk-1_org_q75.png",
+                        "siSeq": "C18589",
+                        "type": 3
+                    },
+                    {
+                        "appName": "低温乳饮料",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20161108/201611080926481478568408_kk-1_org_q75.png",
+                        "siSeq": "C18550",
+                        "type": 3
+                    },
+                    {
+                        "appName": "奶酪",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20161108/201611080926541478568414_kk-1_org_q75.png",
+                        "siSeq": "C18577",
+                        "type": 3
+                    },
+                    {
+                        "appName": "黄油",
+                        "icon": "//img03.fn-mart.com/C/web/layout/kk/20161108/201611080927001478568420_kk-1_org_q75.png",
+                        "siSeq": "C18515",
+                        "type": 3
+                    },
+                    {
+                        "appName": "低温沙拉酱",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20161108/201611080927061478568426_kk-1_org_q75.png",
+                        "siSeq": "C18530",
+                        "type": 3
+                    },
+                    {
+                        "appName": "低温乳酸菌",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080927121478568432_kk-1_org_q75.png",
+                        "siSeq": "C18655",
+                        "type": 3
+                    },
+                    {
+                        "appName": "低温果汁",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080927171478568437_kk-1_org_q75.png",
+                        "siSeq": "C18504",
+                        "type": 3
+                    },
+                    {
+                        "appName": "冷藏咖啡",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080927231478568443_kk-1_org_q75.png",
+                        "siSeq": "C18393",
+                        "type": 3
+                    },
+                    {
+                        "appName": "低温布丁",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080927291478568449_kk-1_org_q75.png",
+                        "siSeq": "C18647",
+                        "type": 3
+                    }
+                ],
+                "appName": "冷藏乳制品及饮品",
+                "siSeq": "C18718",
+                "type": 3
+            },
+            {
+                "hasMore": 1,
+                "child": [
+                    {
+                        "appName": "猪肉",
+                        "icon": "//img03.fn-mart.com/C/web/layout/kk/20170323/201703231134221490240062_kk-1_org_q75.png",
+                        "siSeq": "C18673",
+                        "type": 3
+                    },
+                    {
+                        "appName": "牛排",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080927451478568465_kk-1_org_q75.png",
+                        "siSeq": "C19125",
+                        "type": 3
+                    },
+                    {
+                        "appName": "牛/羊肉卷",
+                        "icon": "//img03.fn-mart.com/C/web/layout/kk/20161108/201611080928011478568481_kk-1_org_q75.png",
+                        "siSeq": "C18386",
+                        "type": 3
+                    },
+                    {
+                        "appName": "羊肉",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080928271478568507_kk-1_org_q75.png",
+                        "siSeq": "C18503",
+                        "type": 3
+                    },
+                    {
+                        "appName": "禽肉",
+                        "icon": "//img03.fn-mart.com/C/web/layout/kk/20161108/201611080928381478568518_kk-1_org_q75.png",
+                        "siSeq": "C18595",
+                        "type": 3
+                    },
+                    {
+                        "appName": "鸭类及其他",
+                        "icon": "//img02.fn-mart.com/pic/b82e133c9668dc71dcaf/hnHnzz12F2fgklVMjz/1YeamaDaXYCxZi/CsmRsVn5I4WAcoXVAAAfLo992Sc546_org_q75.jpg",
+                        "siSeq": "C18539",
+                        "type": 3
+                    },
+                    {
+                        "appName": "蛋类",
+                        "icon": "//img03.fn-mart.com/C/web/layout/kk/20161108/201611080928501478568530_kk-1_org_q75.png",
+                        "siSeq": "C18686",
+                        "type": 3
+                    },
+                    {
+                        "appName": "牛肉",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20170323/201703231134321490240072_kk-1_org_q75.png",
+                        "siSeq": "C18560",
+                        "type": 3
+                    }
+                ],
+                "appName": "肉/禽/蛋",
+                "siSeq": "C18739",
+                "type": 3
+            },
+            {
+                "hasMore": 1,
+                "child": [
+                    {
+                        "appName": "大闸蟹",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080929011478568541_kk-1_org_q75.png",
+                        "siSeq": "C19129",
+                        "type": 3
+                    },
+                    {
+                        "appName": "三文鱼",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080929061478568546_kk-1_org_q75.png",
+                        "siSeq": "C19128",
+                        "type": 3
+                    },
+                    {
+                        "appName": "鱼",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080929121478568552_kk-1_org_q75.png",
+                        "siSeq": "C18576",
+                        "type": 3
+                    },
+                    {
+                        "appName": "虾类",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080929171478568557_kk-1_org_q75.png",
+                        "siSeq": "C18382",
+                        "type": 3
+                    },
+                    {
+                        "appName": "蟹类",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20161108/201611080929231478568563_kk-1_org_q75.png",
+                        "siSeq": "C18381",
+                        "type": 3
+                    },
+                    {
+                        "appName": "贝类",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080929291478568569_kk-1_org_q75.png",
+                        "siSeq": "C18536",
+                        "type": 3
+                    },
+                    {
+                        "appName": "鱿鱼/墨鱼",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080929341478568574_kk-1_org_q75.png",
+                        "siSeq": "C18470",
+                        "type": 3
+                    },
+                    {
+                        "appName": "海参",
+                        "icon": "//img03.fn-mart.com/C/web/layout/kk/20161108/201611080929401478568580_kk-1_org_q75.png",
+                        "siSeq": "C22443",
+                        "type": 3
+                    },
+                    {
+                        "appName": "海蜇类",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080929471478568587_kk-1_org_q75.png",
+                        "siSeq": "C18537",
+                        "type": 3
+                    },
+                    {
+                        "appName": "水产礼盒",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080929541478568594_kk-1_org_q75.png",
+                        "siSeq": "C25048",
+                        "type": 3
+                    }
+                ],
+                "appName": "海鲜/水产品",
+                "siSeq": "C18716",
+                "type": 3
+            },
+            {
+                "hasMore": 1,
+                "child": [
+                    {
+                        "appName": "水饺",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080931351478568695_kk-1_org_q75.png",
+                        "siSeq": "C18387",
+                        "type": 3
+                    },
+                    {
+                        "appName": "馄饨/云吞",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080939321478569172_kk-1_org_q75.png",
+                        "siSeq": "C18388",
+                        "type": 3
+                    },
+                    {
+                        "appName": "包子/烧卖",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20161108/201611080939271478569167_kk-1_org_q75.png",
+                        "siSeq": "C18653",
+                        "type": 3
+                    },
+                    {
+                        "appName": "馒头/花卷",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080939391478569179_kk-1_org_q75.png",
+                        "siSeq": "C18549",
+                        "type": 3
+                    },
+                    {
+                        "appName": "汤圆",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20161108/201611080941231478569283_kk-1_org_q75.png",
+                        "siSeq": "C18389",
+                        "type": 3
+                    },
+                    {
+                        "appName": "火锅丸类",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080941291478569289_kk-1_org_q75.png",
+                        "siSeq": "C18740",
+                        "type": 3
+                    },
+                    {
+                        "appName": "饼类/春卷",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20161108/201611080941351478569295_kk-1_org_q75.png",
+                        "siSeq": "C18390",
+                        "type": 3
+                    },
+                    {
+                        "appName": "披萨",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20161108/201611080941411478569301_kk-1_org_q75.png",
+                        "siSeq": "C18391",
+                        "type": 3
+                    },
+                    {
+                        "appName": "速冻面条",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080941511478569311_kk-1_org_q75.png",
+                        "siSeq": "C18471",
+                        "type": 3
+                    },
+                    {
+                        "appName": "其他速冻食品",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080941561478569316_kk-1_org_q75.png",
+                        "siSeq": "C18484",
+                        "type": 3
+                    }
+                ],
+                "appName": "速冻主食",
+                "siSeq": "C18696",
+                "type": 3
+            },
+            {
+                "hasMore": 1,
+                "child": [
+                    {
+                        "appName": "香肠",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080942561478569376_kk-1_org_q75.png",
+                        "siSeq": "C18676",
+                        "type": 3
+                    },
+                    {
+                        "appName": "火腿",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080944141478569454_kk-1_org_q75.png",
+                        "siSeq": "C18403",
+                        "type": 3
+                    },
+                    {
+                        "appName": "培根",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080944181478569458_kk-1_org_q75.png",
+                        "siSeq": "C18486",
+                        "type": 3
+                    },
+                    {
+                        "appName": "米面点",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080944241478569464_kk-1_org_q75.png",
+                        "siSeq": "C18551",
+                        "type": 3
+                    },
+                    {
+                        "appName": "冷藏菜",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20161108/201611080944301478569470_kk-1_org_q75.png",
+                        "siSeq": "C18660",
+                        "type": 3
+                    },
+                    {
+                        "appName": "特色熟食",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080944361478569476_kk-1_org_q75.png",
+                        "siSeq": "C18649",
+                        "type": 3
+                    }
+                ],
+                "appName": "低温熟食",
+                "siSeq": "C18722",
+                "type": 3
+            },
+            {
+                "hasMore": 1,
+                "child": [
+                    {
+                        "appName": "冷藏蛋糕",
+                        "icon": "//img06.fn-mart.com/C/web/layout/kk/20161108/201611080945101478569510_kk-1_org_q75.png",
+                        "siSeq": "C25042",
+                        "type": 3
+                    }
+                ],
+                "appName": "烘焙",
+                "siSeq": "C24906",
+                "type": 3
+            },
+            {
+                "hasMore": 1,
+                "child": [
+                    {
+                        "appName": "赤豪",
+                        "icon": "//img03.fn-mart.com/pic/9303133c9177275dac87/kn62zz1zDTflhdZd3z/79eyoG_ajiVYZi/CsmRsln4MHqATJExAAAcZ00Vt2I844_org_q75.jpg",
+                        "siSeq": "C50251",
+                        "type": 3
+                    },
+                    {
+                        "appName": "一颗土",
+                        "icon": "//img06.fn-mart.com/pic/fe87133c917727d8ee49/B26zzz5TDnLgklUd3T/sYSReGDaOYuitx/CsmRsVn4NQ6AZBwwAACch9ZkgOE126_org_q75.jpg",
+                        "siSeq": "C50253",
+                        "type": 3
+                    },
+                    {
+                        "appName": "蛋鲜森",
+                        "icon": "//img02.fn-mart.com/pic/2d57133c917e27632cc3/B28nnn7z_2CMBguljz/1YmRmaFGjxVYUY/CsmRsln4MI-AO2frAADoSZdt9rE873_org_q75.jpg",
+                        "siSeq": "C50254",
+                        "type": 3
+                    },
+                    {
+                        "appName": "当年故事",
+                        "icon": "//img06.fn-mart.com/pic/5e1b133c9175276269c0/kzH222sTFTLMKMUM32/19SGeaDajiV9Vx/CsmRsln4MJ6AST3YAAAmBjLG7T4253_org_q75.jpg",
+                        "siSeq": "C50255",
+                        "type": 3
+                    },
+                    {
+                        "appName": "得利斯",
+                        "icon": "//img03.fn-mart.com/pic/d37c133c91702762e75d/knq2nn52FTLMhMul32/7iSaeaFyXYZYux/CsmRsln4MKaAUt8BAABKjLhC_JI869_org_q75.jpg",
+                        "siSeq": "C50256",
+                        "type": 3
+                    },
+                    {
+                        "appName": "谷开元",
+                        "icon": "//img03.fn-mart.com/pic/eed5133c917c2a09e6ba/hz8zzz7nFTfdBlUgjz/sieaoyFy3YtxeG/CsmRsln4QIWAN_wvAAAgNEqfHdo659_org_q75.jpg",
+                        "siSeq": "C50257",
+                        "type": 3
+                    },
+                    {
+                        "appName": "鳗生活",
+                        "icon": "//img02.fn-mart.com/pic/f8ee133c917127688304/B2qT2252DnflhlVMXz/7YeaoavyXYu9Zi/CsmRsln4MNiACcuxAAA0al5nGUw754_org_q75.jpg",
+                        "siSeq": "C50258",
+                        "type": 3
+                    },
+                    {
+                        "appName": "杞农优食",
+                        "icon": "//img04.fn-mart.com/pic/5376133c91782769d436/hnqzTT12_ntdklVdX2/7imGeaFGjiZxZi/CsmRsln4MO2AHxxSAACoTa1ei1U005_org_q75.jpg",
+                        "siSeq": "C50259",
+                        "type": 3
+                    },
+                    {
+                        "appName": "强丰",
+                        "icon": "//img03.fn-mart.com/pic/eabe133c91762a056e7f/hT8nTTs2v2LgBMuM32/1xmGSGvyX9tiSR/CsmRsVn4QI6AWJkPAAAwqOQUryY103_org_q75.jpg",
+                        "siSeq": "C50260",
+                        "type": 3
+                    },
+                    {
+                        "appName": "秋萍",
+                        "icon": "//img06.fn-mart.com/pic/dda7133c91792a060b29/h2Hn22szD2CgKMZMXn/19SGeaDajiC9ea/CsmRsln4QJiAR_CpAAAh9-y2f5Q830_org_q75.png",
+                        "siSeq": "C50261",
+                        "type": 3
+                    },
+                    {
+                        "appName": "蟹之霸",
+                        "icon": "//img03.fn-mart.com/pic/37dc133c9174276f2c33/BTHnzz5z_ztMBgUd3n/1YSGSGFaOiu9UY/CsmRsln4MRqAPhrRAACmW30garE887_org_q75.jpg",
+                        "siSeq": "C50262",
+                        "type": 3
+                    },
+                    {
+                        "appName": "三尚",
+                        "icon": "//img04.fn-mart.com/C/web/layout/kk/20160801/201608011517491470035869_kk-1_org_q75.jpg",
+                        "siSeq": "C50291",
+                        "type": 3
+                    },
+                    {
+                        "appName": "苏食",
+                        "icon": "//img02.fn-mart.com/C/web/layout/kk/20160801/201608011520381470036038_kk-1_org_q75.jpg",
+                        "siSeq": "C50294",
+                        "type": 3
+                    }
+                ],
+                "appName": "品牌推荐",
+                "siSeq": "C50249",
+                "type": 3
+            }
+        ],
+        "versionNo": "2fe85aeee30c2e944bbcb8434232d444",
+        "banner": {
+            "picUrl": "//img02.fn-mart.com/pic/25de133c9cc41d4ef7ae/Kz6Tnn72FztdBlul3z/7YSGmalajyWGoy/CsmRsVovVG-AFdg6AACgquDZchM676_org_q75.jpg",
+            "link": "//sale.feiniu.com/m-80751",
+            "type": 21
+        }
+    }
+}
